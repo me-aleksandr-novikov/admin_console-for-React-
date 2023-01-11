@@ -1,6 +1,4 @@
-
 <?php
-header('Access-Control-Allow-Origin: *');
 $htmlfiles = glob("../../*.html");
 $response = [];
 
